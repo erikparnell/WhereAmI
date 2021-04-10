@@ -1,0 +1,8 @@
+[2021-03-12 01:46:26.650] [sharedprocess] [info] main {"machineId":"3424b72ee104e99be183dc60a7b751a058f3ff95747d04922fb59889f7e032b1","windowId":2}
+[2021-03-12 01:46:26.779] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/workspace/catkin_ws/src/ball_chaser/src/~/.vscode-root/User/snippets'
+[2021-03-12 01:46:29.126] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-03-12 01:46:29.422] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/ffdcccd6-bc06-4879-a488-cdaae78dbdf7
+[2021-03-12 01:46:30.217] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.cpptools-1.0.1: ms-vscode.cpptools
+[2021-03-12 01:46:30.217] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.cpptools-1.0.1
+[2021-03-12 01:46:30.231] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-03-12 01:46:30.249] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
