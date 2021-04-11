@@ -36,9 +36,6 @@
       <geometry>
         <box size=".4 .2 .1"/>
       </geometry>
-	<gazebo reference="chassis">
-  	  <material>Gazebo/Yellow</material>
-	</gazebo>
 
     </visual>
 
@@ -72,6 +69,20 @@
     </visual>
 
   </link>
+
+	<gazebo reference="chassis">
+          <material>Gazebo/Yellow</material>
+        </gazebo>
+	
+	<gazebo reference="left_wheel">
+		<material>Gazebo/Blue</material>
+	</gazebo>
+
+	<gazebo reference="right_wheel">
+		<material>Gazebo/Blue</material>
+	</gazebo>
+
+
 	<!--Eriks code additions:-->
 	<link name= "left_wheel">
 		<inertial>
